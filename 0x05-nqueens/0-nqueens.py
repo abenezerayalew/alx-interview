@@ -20,7 +20,7 @@ if __name__ == '__main__':
         exit(1)
 
     solutions = []
-    placed_queens = []  # coordinates format [row, column]
+    placed_queens = []
     stop = False
     r = 0
     c = 0
