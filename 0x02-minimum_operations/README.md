@@ -1,2 +1,1 @@
-# alx-interview
-interview-questions
+# 0x02-minimum_operations
